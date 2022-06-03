@@ -5,17 +5,17 @@ The Metallic soul is a Self Driving bot which is programmed to drive autonomousl
 
 
 
-TEAM DETAILS:
+**TEAM DETAILS:**
 
 Team name: Metallic soul 
 
 Country: United Arab Emirates
 
-Member 1 : Fahad
+Member 1 : _Fahad_
 
-Member 2 : Abdulla Abdul Jaleel
+Member 2 : _Abdulla Abdul Jaleel_
 
-Member 3 : Mohammed Saad
+Member 3 : _Mohammed Saad_
 
 Coach : Nandini Kurmude
 
@@ -23,8 +23,9 @@ Coach : Nandini Kurmude
 
 **ENGINEERING MATERIALS:**
 
-This repository contains engineering materials of the autonomous driving bot participating in the WRO Future Engineers competition in the season 2022.
+Lego Mindstorms EV3 is the third generation robotics kit in Lego's Mindstorms line. It is the successor to the second generation Lego Mindstorms NXT kit. The "EV" designation refers to the "evolution" of the Mindstorms product line. "3" refers to the fact that it is the third generation of computer modules - first was the RCX and the second is the NXT. It was officially announced on January 4, 2013 and was released in stores on September 1, 2013. The education edition was released on August 1, 2013.
 
+This repository contains engineering materials of the autonomous driving bot participating in the WRO Future Engineers competition in the season 2022.
 
 
 **CONTENTS:**
@@ -95,11 +96,16 @@ Below is a schematic diagramatic representation consisting of all the electromec
 
 The Metallic Soul Atonomous bot is built using the Lego EV3 Mindstorm's robotics kit. The brief description of each electromechanical component (sesors, motors and bricks) used in building this robot are given as folllows in order to understand the code and functionality of each component better.
 
+
 **I.Sensors: **
 
-1. ULTRASONIC SENSOR: The ultrasonic sensor is primarily used for the detection of obstacles and their avoidance. It is attached to the front of the robot. The digital EV3 Ultrasonic Sensor generates sound waves and reads their echoes to detect and measure distance from objects. It can also send single sound waves to work as sonar or listen for a sound wave that triggers the start of a program. We have used it to detect the distance of the approaching obstacle and drive automously according to the situation.  
+
+**1. ULTRASONIC SENSOR:**
+
+The ultrasonic sensor is primarily used for the detection of obstacles and their avoidance. It is attached to the front of the robot. The digital EV3 Ultrasonic Sensor generates sound waves and reads their echoes to detect and measure distance from objects. It can also send single sound waves to work as sonar or listen for a sound wave that triggers the start of a program. We have used it to detect the distance of the approaching obstacle and drive automously according to the situation.  
 
 ![41hJmhLR4BL _AC_SY1000_](https://user-images.githubusercontent.com/106700080/171618265-43b1c080-d371-4ac1-9feb-b000296bd986.jpg)
+
 
 **2. COLOUR SENSOR: **
 
@@ -111,7 +117,10 @@ Ambient light intensity –  In this mode, the colour sensor measures the amount
 
 ![download](https://user-images.githubusercontent.com/106700080/171618191-b636c9c8-94b7-4363-9ae2-d9a7b86a09f2.jpg)
 
-3. GYRO SENSOR: The gyro sensor helps in detecting the rate of rotations by measuring the angles. It is placed left to the brick lower body in our robot to assist it in rotations. The gyro sensor detects rotational motion in the plane indicated by the arrows on the top of the sensor housing. The sensor measures the rate of rotation in degrees per second and keeps track of the total angle of rotation in degrees.
+
+**3. GYRO SENSOR:**
+
+The gyro sensor helps in detecting the rate of rotations by measuring the angles. It is placed left to the brick lower body in our robot to assist it in rotations. The gyro sensor detects rotational motion in the plane indicated by the arrows on the top of the sensor housing. The sensor measures the rate of rotation in degrees per second and keeps track of the total angle of rotation in degrees.
  
 ![s-l400](https://user-images.githubusercontent.com/106700080/171618289-50a9ef1e-dc7c-480c-9856-3cfcf4e04c1b.jpg)
 
@@ -120,7 +129,7 @@ Ambient light intensity –  In this mode, the colour sensor measures the amount
 **II.Motors:**
 
 
-_**1. LARGE MOTOR: **_
+**1. LARGE MOTOR: **
 
 The large motor is the primary driving base of our self driving robot. It has an built-in rotation sensor (with 1- degree resolution), The large motor is optimized to be the driving base on our robot. The large motor runs at 160 - 170 rpm, with a running torque of 20 Ncm and a stall torque of 40 Ncm.  It is slower but indeed very stronger .
 
@@ -129,14 +138,16 @@ By using the Large motor we are able to run our car with greater efficency and a
 ![31pFKiNKOsL _SR600,315_PIWhiteStrip,BottomLeft,0,35_SCLZZZZZZZ_FMpng_BG255,255,255](https://user-images.githubusercontent.com/106700080/171618600-5f5aad46-61b2-42a4-9594-879acbe34768.png)
 
 
-_**2. MEDIUM MOTOR:**_
+**2. MEDIUM MOTOR:**
 
 The medium motor also includes an built-in rotation sensor (with 1- degree resolution), But it is smaller and lighter than the large motor , which implies that it is able to respond more quickly than the the large motor. The large motor is optimized to be the steering motor on our autonmous driving robot.
 
 ![download](https://user-images.githubusercontent.com/106700080/171618669-6ac5cc2a-c0d2-428c-b813-914db39861fd.jpg)
 
 
-**III.Brick:**
+
+
+**II.Brick:**
 
 The brain of our robot, the Lego Mindstorms EV3 intelligent brick gathers informations coming from the sensors, processes it and sends commands to the motors for an efficient and amazing autonomous ride.
 
