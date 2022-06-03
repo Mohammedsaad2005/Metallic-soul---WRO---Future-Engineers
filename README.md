@@ -70,7 +70,8 @@ CODES:
 
 SCHEMATIC DIAGRAM:
 
-Below is a schematic diagramatic representation consisting of all the electromechanical components (sensors, motors, bricks, etc) used in building the Aurora bot.
+Below is a schematic diagramatic representation consisting of all the electromechanical components (sensors, motors, bricks, etc) used in building the Autonomous driving bot.
+
 ![image](https://user-images.githubusercontent.com/106696079/171681999-9533f90d-acc1-4f0b-bba2-c51194248033.png)
 
 
@@ -79,7 +80,8 @@ INTRODUCTION:
 ''''
 
 ELECTROMECHANICAL COMPONENTS:
-The Aurora bot is built using the Lego EV3 Mindstorm's robotics kit. The brief description of each electromechanical component (sesors, motors and bricks) used in building this robot are given as folllows in order to understand the code and functionality of each component better.
+
+The Metallic Soul Atonomous bot is built using the Lego EV3 Mindstorm's robotics kit. The brief description of each electromechanical component (sesors, motors and bricks) used in building this robot are given as folllows in order to understand the code and functionality of each component better.
 
 I.Sensors: 
 
