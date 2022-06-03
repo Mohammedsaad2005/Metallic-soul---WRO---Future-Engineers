@@ -86,28 +86,60 @@ The Metallic Soul Atonomous bot is built using the Lego EV3 Mindstorm's robotics
 
 I.Sensors: 
 
-1. ULTRASONIC SENSOR: The ultrasonic sensor is primarily used for the detection of obstacles and their avoidance. It is attached to the front of the robot. 
+1. ULTRASONIC SENSOR: The ultrasonic sensor is primarily used for the detection of obstacles and their avoidance. It is attached to the front of the robot. The digital EV3 Ultrasonic Sensor generates sound waves and reads their echoes to detect and measure distance from objects. It can also send single sound waves to work as sonar or listen for a sound wave that triggers the start of a program. We have used it to detect the distance of the approaching obstacle and drive automously according to the situation.  
+
 ![41hJmhLR4BL _AC_SY1000_](https://user-images.githubusercontent.com/106700080/171618265-43b1c080-d371-4ac1-9feb-b000296bd986.jpg)
 
-2. COLOUR SENSOR: The colour sensors are used to detect change or for the comparison between two or more different colour. 2 colour sensors were used, 1 placed facing downwards and the other front faced.
+2. COLOUR SENSOR: 
+
+The colour sensor has three different modes: colour, reflected light intensity, and ambient light intensity.
+
+Colour – In this mode, the colour sensor can differentiate up to seven different colours: black, blue, green, yellow, red, white, and brown. Each colour is also represented by a value (see “Colour and light data table” below). Note: For best results, the colour sensor needs to be 1-2 cm away from the colour you are trying to detect, and have consistent lighting.
+Reflected light intensity – In this mode, the colour sensor emits a red light and measures the amount reflected back into itself from the surface you are testing. The intensity of the light is measured as a percentage from 0 to 100, with 0 being very dark, and 100 being very bright.
+Ambient light intensity –  In this mode, the colour sensor measures the amount of light in its environment, without producing its own light source. Ambient light intensity is measured as a percentage from 0 to 100, with 0 being very dark, and 100 being very bright.The colour sensors are used to detect change or for the comparison between two or more different colour. Two colour sensors were used, one placed facing downwards and the other front faced.
+
 ![download](https://user-images.githubusercontent.com/106700080/171618191-b636c9c8-94b7-4363-9ae2-d9a7b86a09f2.jpg)
 
-3. GYRO SENSOR: The gyro sensor helps in detecting the rate of rotations by measuring the angles. It is placed in between the brick and the ultrasonioc sensor in our robot to assist it in rotations.
+3. GYRO SENSOR: The gyro sensor helps in detecting the rate of rotations by measuring the angles. It is placed left to the brick lower body in our robot to assist it in rotations. The gyro sensor detects rotational motion in the plane indicated by the arrows on the top of the sensor housing. The sensor measures the rate of rotation in degrees per second and keeps track of the total angle of rotation in degrees.
+ 
 ![s-l400](https://user-images.githubusercontent.com/106700080/171618289-50a9ef1e-dc7c-480c-9856-3cfcf4e04c1b.jpg)
 
 II.Motors:
 
-1. LARGE MOTOR: the large motor is the primary driving base of our self driving robot.
+1. LARGE MOTOR: 
+
+The large motor is the primary driving base of our self driving robot. It has an built-in rotation sensor (with 1- degree resolution), The large motor is optimized to be the driving base on our robot. The large motor runs at 160 - 170 rpm, with a running torque of 20 Ncm and a stall torque of 40 Ncm.  It is slower but indeed very stronger .
+
+By using the Large motor we are able to run our car with greater efficency and accuracy.
+ 
 ![31pFKiNKOsL _SR600,315_PIWhiteStrip,BottomLeft,0,35_SCLZZZZZZZ_FMpng_BG255,255,255](https://user-images.githubusercontent.com/106700080/171618600-5f5aad46-61b2-42a4-9594-879acbe34768.png)
 
-2. MEDIUM MOTOR: the medium motor acts as a steering actuator in our robot.
+
+2. MEDIUM MOTOR:
+
+The medium motor also includes an built-in rotation sensor (with 1- degree resolution), But it is smaller and lighter than the large motor , which implies that it is able to respond more quickly than the the large motor. The large motor is optimized to be the steering motor on our autonmous driving robot.
+
 ![download](https://user-images.githubusercontent.com/106700080/171618669-6ac5cc2a-c0d2-428c-b813-914db39861fd.jpg)
+
 
 III.Brick:
 
-The EV3 Brick is the primary component of our robot. It supplies power to the robot and controls all its movements and actions. It is the part which stores all the programs neccessary for the functioning of the robot. It consists of 4 buttons, i.e power/OK button, off button, left and right, all of which help in assisting the robot in its movement.
+The brain of our robot, the Lego Mindstorms EV3 intelligent brick gathers informations coming from the sensors, processes it and sends commands to the motors for an efficient and amazing autonomous ride.
+
+This programmable, intelligent brick serves as the heart and brain of LEGO® MINDSTORMS® Education EV3 robots. It features an illuminated six-button interface that changes color to indicate the brick's active state, a high-resolution black and white display, built-in speaker, USB port, a mini SD card reader, four input ports and four output ports. The brick also supports USB, Bluetooth and Wi-Fi communication with a computer and has a programming interface that enables programming and data logging directly onto the brick. It is compatible with mobile devices and is powered by AA batteries or the EV3 Rechargeable DC Battery. 
+
+On-brick programming and datalogging that can be uploaded into the EV3 software
+
+Computer-to-brick communication through on-board USB, or external Wi-Fi or Bluetooth dongles
+
+USB 2.0 host enabling bricks to be linked in a daisy chain, allows Wi-Fi communication and connection to USB memory sticks
+
+Powered by six AA batteries or the 2050 mAh lithium ion EV3 Rechargeable DC Battery
+
+The EV3 Brick is the primary component of our robot. It supplies power to the robot and controls all its movements and actions. It is the part which stores all the programs neccessary for the functioning of the robot. It consists of 4 buttons, i.e power/OK button, off button, left and right, all of which help in assisting the robot in its movement. 
+
 ![95646c01](https://user-images.githubusercontent.com/106700080/171619375-7eee289d-01fd-4aba-97f0-a269a7bf2e48.png)
 
 CODING:
 
-The programming platform used for the coding of the self driving robot is Lego Mindstorm Education EV3. Many programs were combined using My Block Builder. 
+The programming platform used for the coding of the self driving Metallic Soul robot is Lego Mindstorm Education EV3.
