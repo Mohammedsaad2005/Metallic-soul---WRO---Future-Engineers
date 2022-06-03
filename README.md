@@ -126,6 +126,10 @@ The gyro sensor helps in detecting the rate of rotations by measuring the angles
 
 
 
+
+
+
+
 **II.Motors:**
 
 
