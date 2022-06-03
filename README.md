@@ -29,6 +29,7 @@ video contains the video.md file with the link to a video where driving demonstr
 - src: contains code of control software for all components which were programmed to participate in the competition
 
 
+
 Team photos:
 '''
 '''
