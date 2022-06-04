@@ -126,16 +126,16 @@ Below is a schematic diagramatic representation consisting of all the electromec
 
 
 
-#INTRODUCTION:
+**#INTRODUCTION:**
 
 ''''
 
-#ELECTROMECHANICAL COMPONENTS:
+**#ELECTROMECHANICAL COMPONENTS:**
 
 The Metallic Soul Atonomous bot is built using the Lego EV3 Mindstorm's robotics kit. The brief description of each electromechanical component (sesors, motors and bricks) used in building this robot are given as folllows in order to understand the code and functionality of each component better.
 
 
-#I.Sensors:
+**I.Sensors:
 
 
 **1. ULTRASONIC SENSOR:**
@@ -168,7 +168,7 @@ The gyro sensor helps in detecting the rate of rotations by measuring the angles
 
 
 
-#II.Motors:
+**#II.Motors:**
 
 
 **1. LARGE MOTOR:**
@@ -189,7 +189,7 @@ The medium motor also includes an built-in rotation sensor (with 1- degree resol
 
 
 
-#II.Brick:
+**#II.Brick:**
 
 The brain of our robot, the Lego Mindstorms EV3 intelligent brick gathers informations coming from the sensors, processes it and sends commands to the motors for an efficient and amazing autonomous ride.
 
@@ -207,9 +207,9 @@ The EV3 Brick is the primary component of our robot. It supplies power to the ro
 
 ![95646c01](https://user-images.githubusercontent.com/106700080/171619375-7eee289d-01fd-4aba-97f0-a269a7bf2e48.png)
 
-#CODING:
+**#CODING:**
 
 The programming platform used for the coding of the self driving Metallic Soul robot is Lego Mindstorm Education EV3.
 
-Learning outcome : 
+**Learning outcome :** We really enjoyed making a project on an autonomous car .. We got a hands-on ecperience in the programming and designing of the autonomous driving vehicle .. It was really fun we did a lot of research on the programming designing and compiling of the project . We hope to work on many more projects which will give us more knowledge on this interesting field of research.
 
