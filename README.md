@@ -21,14 +21,14 @@ Coach : Nandini Kurmude
 
 
 
-**ENGINEERING MATERIALS:**
+#ENGINEERING MATERIALS:#
 
 Lego Mindstorms EV3 is the third generation robotics kit in Lego's Mindstorms line. It is the successor to the second generation Lego Mindstorms NXT kit. The "EV" designation refers to the "evolution" of the Mindstorms product line. "3" refers to the fact that it is the third generation of computer modules - first was the RCX and the second is the NXT. It was officially announced on January 4, 2013 and was released in stores on September 1, 2013. The education edition was released on August 1, 2013.
 
 This repository contains engineering materials of the autonomous driving bot participating in the WRO Future Engineers competition in the season 2022.
 
 
-**CONTENTS:**
+##**CONTENTS:**##
 
 - t-photos: contains 2 photos of the team (an official one and one funny photo with all team members)
 - v-photos: contains 6 photos of the vehicle (from every side, from top and bottom)
@@ -40,6 +40,15 @@ video contains the video.md file with the link to a video where driving demonstr
 
 
 **Team photos:**
+
+Funny photo
+
+
+
+Official Photo
+
+![official photo](https://user-images.githubusercontent.com/106605597/171985665-afa270d7-2e3e-40b3-81e7-ebe3732f89c9.jpg)
+
 '''
 '''
 
@@ -50,25 +59,33 @@ video contains the video.md file with the link to a video where driving demonstr
 Below are the 6 faces of the self driving autonomous vehicle.
 
 1. FRONT FACE:
+![Front](https://user-images.githubusercontent.com/106605597/171985618-d10bbbb0-6ed3-4f0c-9a4e-24c42e480f57.jpg)
+
 
 
 
 2. BACK FACE:
+![Back](https://user-images.githubusercontent.com/106605597/171985622-00911b8e-c569-4910-acb1-80c78cb98921.jpg)
 
 
 
 3.RIGHT FACE:
+![Right](https://user-images.githubusercontent.com/106605597/171985626-d2238f69-94c9-434d-ad25-b8ca4634f66b.jpg)
 
 
 4.LEFT FACE:
-
+![Left](https://user-images.githubusercontent.com/106605597/171985636-eb40632f-a258-4eca-8703-02d842604d96.jpg)
 
 
 5.TOP FACE:
 
+![Top](https://user-images.githubusercontent.com/106605597/171985641-c16afab8-0f16-40b5-8c82-6470ef7b5496.jpg)
+
 
 
 6.BOTTOM FACE:
+
+![Bottom](https://user-images.githubusercontent.com/106605597/171985415-8b2c4bce-6eb1-4490-9353-44a4316e7bd6.jpg)
 
 
 
@@ -118,7 +135,7 @@ Ambient light intensity –  In this mode, the colour sensor measures the amount
 ![download](https://user-images.githubusercontent.com/106700080/171618191-b636c9c8-94b7-4363-9ae2-d9a7b86a09f2.jpg)
 
 
-**3. GYRO SENSOR:**
+#3. GYRO SENSOR:#
 
 The gyro sensor helps in detecting the rate of rotations by measuring the angles. It is placed left to the brick lower body in our robot to assist it in rotations. The gyro sensor detects rotational motion in the plane indicated by the arrows on the top of the sensor housing. The sensor measures the rate of rotation in degrees per second and keeps track of the total angle of rotation in degrees.
  
