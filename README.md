@@ -21,14 +21,14 @@ Coach : Nandini Kurmude
 
 
 
-#ENGINEERING MATERIALS:#
+**ENGINEERING MATERIALS:**
 
 Lego Mindstorms EV3 is the third generation robotics kit in Lego's Mindstorms line. It is the successor to the second generation Lego Mindstorms NXT kit. The "EV" designation refers to the "evolution" of the Mindstorms product line. "3" refers to the fact that it is the third generation of computer modules - first was the RCX and the second is the NXT. It was officially announced on January 4, 2013 and was released in stores on September 1, 2013. The education edition was released on August 1, 2013.
 
 This repository contains engineering materials of the autonomous driving bot participating in the WRO Future Engineers competition in the season 2022.
 
 
-##**CONTENTS:**##
+**CONTENTS:**
 
 - t-photos: contains 2 photos of the team (an official one and one funny photo with all team members)
 - v-photos: contains 6 photos of the vehicle (from every side, from top and bottom)
@@ -55,7 +55,7 @@ video contains the video.md file with the link to a video where driving demonstr
 '''
 '''
 
-**Vehicle photos:**
+#Vehicle photos:
 
 Below are the 6 faces of the self driving autonomous vehicle.
 
@@ -103,17 +103,16 @@ Below are the 6 faces of the self driving autonomous vehicle.
 ![Bottom](https://user-images.githubusercontent.com/106605597/171985415-8b2c4bce-6eb1-4490-9353-44a4316e7bd6.jpg)
 
 
-
-Link to YouTube video:
-
+#Link to YouTube video:
 
 
 
-CODES:
+
+#CODES:
 '''
 
 
-**SCHEMATIC DIAGRAM:**
+#SCHEMATIC DIAGRAM:
 
 Below is a schematic diagramatic representation consisting of all the electromechanical components (sensors, motors, bricks, etc) used in building the Autonomous driving bot.
 
@@ -121,16 +120,16 @@ Below is a schematic diagramatic representation consisting of all the electromec
 
 
 
-**INTRODUCTION:**
+#INTRODUCTION:
 
 ''''
 
-**ELECTROMECHANICAL COMPONENTS:**
+#ELECTROMECHANICAL COMPONENTS:
 
 The Metallic Soul Atonomous bot is built using the Lego EV3 Mindstorm's robotics kit. The brief description of each electromechanical component (sesors, motors and bricks) used in building this robot are given as folllows in order to understand the code and functionality of each component better.
 
 
-**I.Sensors: **
+#I.Sensors:
 
 
 **1. ULTRASONIC SENSOR:**
@@ -163,7 +162,7 @@ The gyro sensor helps in detecting the rate of rotations by measuring the angles
 
 
 
-**II.Motors:**
+#II.Motors:
 
 
 **1. LARGE MOTOR:**
@@ -184,7 +183,7 @@ The medium motor also includes an built-in rotation sensor (with 1- degree resol
 
 
 
-**II.Brick:**
+#II.Brick:
 
 The brain of our robot, the Lego Mindstorms EV3 intelligent brick gathers informations coming from the sensors, processes it and sends commands to the motors for an efficient and amazing autonomous ride.
 
@@ -202,6 +201,6 @@ The EV3 Brick is the primary component of our robot. It supplies power to the ro
 
 ![95646c01](https://user-images.githubusercontent.com/106700080/171619375-7eee289d-01fd-4aba-97f0-a269a7bf2e48.png)
 
-**CODING:**
+#CODING:
 
 The programming platform used for the coding of the self driving Metallic Soul robot is Lego Mindstorm Education EV3.
