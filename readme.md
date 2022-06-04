@@ -55,13 +55,13 @@ video contains the video.md file with the link to a video where driving demonstr
 '''
 '''
 
-#Vehicle photos:
+**Vehicle photos:
 
 Below are the 6 faces of the self driving autonomous vehicle.
 
 
 
-1. FRONT FACE:
+**1. FRONT FACE:**
 
 
 ![Front](https://user-images.githubusercontent.com/106605597/171985618-d10bbbb0-6ed3-4f0c-9a4e-24c42e480f57.jpg)
@@ -70,7 +70,7 @@ Below are the 6 faces of the self driving autonomous vehicle.
 
 
 
-2. BACK FACE:
+**2. BACK FACE:
 
 
 ![Back](https://user-images.githubusercontent.com/106605597/171985622-00911b8e-c569-4910-acb1-80c78cb98921.jpg)
@@ -78,44 +78,44 @@ Below are the 6 faces of the self driving autonomous vehicle.
 
 
 
-3.RIGHT FACE:
+**3.RIGHT FACE:
 
 
 ![Right](https://user-images.githubusercontent.com/106605597/171985626-d2238f69-94c9-434d-ad25-b8ca4634f66b.jpg)
 
 
-4.LEFT FACE:
+**4.LEFT FACE:
 
 
 ![Left](https://user-images.githubusercontent.com/106605597/171985636-eb40632f-a258-4eca-8703-02d842604d96.jpg)
 
 
-5.TOP FACE:
+**5.TOP FACE:
 
 
 ![Top](https://user-images.githubusercontent.com/106605597/171985641-c16afab8-0f16-40b5-8c82-6470ef7b5496.jpg)
 
 
 
-6.BOTTOM FACE:
+**6.BOTTOM FACE:
 
 
 ![Bottom](https://user-images.githubusercontent.com/106605597/171985415-8b2c4bce-6eb1-4490-9353-44a4316e7bd6.jpg)
 
 
-#Link to YouTube video:
+**Link to YouTube video:
 
 https://youtu.be/EYeG8PGeubc
 
 
-#CODES:
+**CODES:
 
 
 ![EV3 coding](https://user-images.githubusercontent.com/106605597/171990242-778b78c4-88b6-4c07-a625-af671fe108b5.PNG)
 
 
 
-#SCHEMATIC DIAGRAM:
+**SCHEMATIC DIAGRAM:
 
 Below is a schematic diagramatic representation consisting of all the electromechanical components (sensors, motors, bricks, etc) used in building the Autonomous driving bot.
 
