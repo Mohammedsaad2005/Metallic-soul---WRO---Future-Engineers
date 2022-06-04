@@ -204,3 +204,11 @@ The EV3 Brick is the primary component of our robot. It supplies power to the ro
 #CODING:
 
 The programming platform used for the coding of the self driving Metallic Soul robot is Lego Mindstorm Education EV3.
+
+Learning outcome : 
+
+
+
+
+
+
