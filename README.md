@@ -105,11 +105,14 @@ Below are the 6 faces of the self driving autonomous vehicle.
 
 #Link to YouTube video:
 
-
+https://youtu.be/EYeG8PGeubc
 
 
 #CODES:
-'''
+
+
+![EV3 coding](https://user-images.githubusercontent.com/106605597/171990242-778b78c4-88b6-4c07-a625-af671fe108b5.PNG)
+
 
 
 #SCHEMATIC DIAGRAM:
@@ -117,6 +120,9 @@ Below are the 6 faces of the self driving autonomous vehicle.
 Below is a schematic diagramatic representation consisting of all the electromechanical components (sensors, motors, bricks, etc) used in building the Autonomous driving bot.
 
 ![p1g4k27vf51gmih7ciqu7n71cah4-0](https://user-images.githubusercontent.com/106605597/171986214-d30a4e59-0fa3-4094-a144-681bab781eca.png)
+
+![diagram](https://user-images.githubusercontent.com/106605597/171990257-c2736470-7228-45f7-80e7-199d0f73fa4f.PNG)
+
 
 
 
