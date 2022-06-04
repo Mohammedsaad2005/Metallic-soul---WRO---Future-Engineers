@@ -41,11 +41,14 @@ video contains the video.md file with the link to a video where driving demonstr
 
 **Team photos:**
 
-Funny photo
+
+**Funny photo:**
+
+![Funny photo](https://user-images.githubusercontent.com/106605597/171986106-39b33931-7373-49c3-a1f7-7019471ab654.jpg)
 
 
 
-Official Photo
+**Official Photo:**
 
 ![official photo](https://user-images.githubusercontent.com/106605597/171985665-afa270d7-2e3e-40b3-81e7-ebe3732f89c9.jpg)
 
@@ -54,36 +57,48 @@ Official Photo
 
 **Vehicle photos:**
 
-
-
 Below are the 6 faces of the self driving autonomous vehicle.
 
+
+
 1. FRONT FACE:
+
+
 ![Front](https://user-images.githubusercontent.com/106605597/171985618-d10bbbb0-6ed3-4f0c-9a4e-24c42e480f57.jpg)
 
 
 
 
+
 2. BACK FACE:
+
+
 ![Back](https://user-images.githubusercontent.com/106605597/171985622-00911b8e-c569-4910-acb1-80c78cb98921.jpg)
 
 
 
+
 3.RIGHT FACE:
+
+
 ![Right](https://user-images.githubusercontent.com/106605597/171985626-d2238f69-94c9-434d-ad25-b8ca4634f66b.jpg)
 
 
 4.LEFT FACE:
+
+
 ![Left](https://user-images.githubusercontent.com/106605597/171985636-eb40632f-a258-4eca-8703-02d842604d96.jpg)
 
 
 5.TOP FACE:
+
 
 ![Top](https://user-images.githubusercontent.com/106605597/171985641-c16afab8-0f16-40b5-8c82-6470ef7b5496.jpg)
 
 
 
 6.BOTTOM FACE:
+
 
 ![Bottom](https://user-images.githubusercontent.com/106605597/171985415-8b2c4bce-6eb1-4490-9353-44a4316e7bd6.jpg)
 
@@ -102,7 +117,8 @@ CODES:
 
 Below is a schematic diagramatic representation consisting of all the electromechanical components (sensors, motors, bricks, etc) used in building the Autonomous driving bot.
 
-![image](https://user-images.githubusercontent.com/106696079/171681999-9533f90d-acc1-4f0b-bba2-c51194248033.png)
+![p1g4k27vf51gmih7ciqu7n71cah4-0](https://user-images.githubusercontent.com/106605597/171986214-d30a4e59-0fa3-4094-a144-681bab781eca.png)
+
 
 
 **INTRODUCTION:**
@@ -135,7 +151,7 @@ Ambient light intensity –  In this mode, the colour sensor measures the amount
 ![download](https://user-images.githubusercontent.com/106700080/171618191-b636c9c8-94b7-4363-9ae2-d9a7b86a09f2.jpg)
 
 
-#3. GYRO SENSOR:#
+**3. GYRO SENSOR:**
 
 The gyro sensor helps in detecting the rate of rotations by measuring the angles. It is placed left to the brick lower body in our robot to assist it in rotations. The gyro sensor detects rotational motion in the plane indicated by the arrows on the top of the sensor housing. The sensor measures the rate of rotation in degrees per second and keeps track of the total angle of rotation in degrees.
  
@@ -150,7 +166,7 @@ The gyro sensor helps in detecting the rate of rotations by measuring the angles
 **II.Motors:**
 
 
-**1. LARGE MOTOR: **
+**1. LARGE MOTOR:**
 
 The large motor is the primary driving base of our self driving robot. It has an built-in rotation sensor (with 1- degree resolution), The large motor is optimized to be the driving base on our robot. The large motor runs at 160 - 170 rpm, with a running torque of 20 Ncm and a stall torque of 40 Ncm.  It is slower but indeed very stronger .
 
